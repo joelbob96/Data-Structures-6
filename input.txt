@@ -1,0 +1,35 @@
+1234Joel    Martin  100 d1000
+1111John    Smith   200 w2000
+1112Herbert Garrison300 w3000
+1113Scott   Tennerma4000d0
+1114Jerry   Smith   9999w10000
+1115Rick    Sanchez 5   d500
+1116Morty   Smith   18  w118
+1117Luke    Skywalke500 w500
+1118Leia    Organa  1000d100000
+1119Han     Solo    60  w100
+1120Lando   Cal     6000d80000
+1121Eric    Cartman 5   d0
+1122Stan    Marsh   50  w1000
+1123Kenny   McCormic1   w5
+1124Kyle    Brovlosk50  d100
+1125Wendy   Testebur100 w10000
+1126Randy   Marsh   1000w1500
+1127Sheila  Marsh   1000d500
+1128Leopold Scotch  50  d5000
+1129Shelly  Marsh   555 d444
+1130Ike     Brovlosk1   d0
+1131Tweak   Tweak   25  w100
+1132Frodo   Baggins 50  d4950
+1133Samwise Gamgee  800 d800
+1134Gandalf Grey    5555d88888
+1135Gandalf White   7777d99999
+1136Bilbo   Baggins 800 w66996
+1137Pippin  Took    2222w22222
+1138Merry   Brandy  3333d33333
+1139Marty   McFly   88  d1955
+1140James   Kirk    1414w141414
+1141Jean    Picard  5454d5454
+1142Bill    Preston 7777d8888
+1143ThrodoreLogan   999 d9999
+1144Chris   Pike    1000w10000

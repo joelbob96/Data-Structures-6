@@ -1,0 +1,40 @@
+
+1234 Joel     Martin   Amount:100 Deposit, Balance:1100 Arrival T:1 Wait T:4 Teller:1
+1111 John     Smith    Amount:200 Withdraw, Balance:1800 Arrival T:10 Wait T:8 Teller:2
+1112 Herbert  Garrison Amount:300 Withdraw, Balance:2700 Arrival T:14 Wait T:13 Teller:2
+1113 Scott    Tennerma Amount:4000 Deposit, Balance:4000 Arrival T:22 Wait T:18 Teller:1
+1114 Jerry    Smith    Amount:9999 Withdraw, Balance:1 Arrival T:27 Wait T:22 Teller:1
+1115 Rick     Sanchez  Amount:5 Deposit, Balance:505 Arrival T:30 Wait T:25 Teller:3
+1116 Morty    Smith    Amount:18 Withdraw, Balance:100 Arrival T:36 Wait T:26 Teller:1
+1117 Luke     Skywalke Amount:500 Withdraw, Balance:0 Arrival T:38 Wait T:28 Teller:3
+1118 Leia     Organa   Amount:1000 Deposit, Balance:101000 Arrival T:39 Wait T:31 Teller:3
+1119 Han      Solo     Amount:60 Withdraw, Balance:40 Arrival T:46 Wait T:36 Teller:2
+1120 Lando    Cal      Amount:6000 Deposit, Balance:86000 Arrival T:52 Wait T:39 Teller:3
+1121 Eric     Cartman  Amount:5 Deposit, Balance:5 Arrival T:57 Wait T:40 Teller:2
+1122 Stan     Marsh    Amount:50 Withdraw, Balance:950 Arrival T:63 Wait T:44 Teller:2
+1123 Kenny    McCormic Amount:1 Withdraw, Balance:4 Arrival T:64 Wait T:46 Teller:2
+1124 Kyle     Brovlosk Amount:50 Deposit, Balance:150 Arrival T:71 Wait T:50 Teller:2
+1125 Wendy    Testebur Amount:100 Withdraw, Balance:9900 Arrival T:75 Wait T:55 Teller:3
+1126 Randy    Marsh    Amount:1000 Withdraw, Balance:500 Arrival T:80 Wait T:58 Teller:3
+1127 Sheila   Marsh    Amount:1000 Deposit, Balance:1500 Arrival T:84 Wait T:61 Teller:2
+1128 Leopold  Scotch   Amount:50 Deposit, Balance:5050 Arrival T:93 Wait T:64 Teller:3
+1129 Shelly   Marsh    Amount:555 Deposit, Balance:999 Arrival T:99 Wait T:65 Teller:3
+1130 Ike      Brovlosk Amount:1 Deposit, Balance:1 Arrival T:109 Wait T:68 Teller:1
+1131 Tweak    Tweak    Amount:25 Withdraw, Balance:75 Arrival T:119 Wait T:73 Teller:2
+1132 Frodo    Baggins  Amount:50 Deposit, Balance:5000 Arrival T:128 Wait T:74 Teller:2
+1133 Samwise  Gamgee   Amount:800 Deposit, Balance:1600 Arrival T:131 Wait T:75 Teller:2
+1134 Gandalf  Grey     Amount:5555 Deposit, Balance:94443 Arrival T:141 Wait T:79 Teller:2
+1135 Gandalf  White    Amount:7777 Deposit, Balance:107776 Arrival T:145 Wait T:80 Teller:3
+1136 Bilbo    Baggins  Amount:800 Withdraw, Balance:66196 Arrival T:151 Wait T:81 Teller:3
+1137 Pippin   Took     Amount:2222 Withdraw, Balance:20000 Arrival T:152 Wait T:84 Teller:3
+1138 Merry    Brandy   Amount:3333 Deposit, Balance:36666 Arrival T:159 Wait T:87 Teller:2
+1139 Marty    McFly    Amount:88 Deposit, Balance:2043 Arrival T:162 Wait T:88 Teller:2
+1140 James    Kirk     Amount:1414 Withdraw, Balance:140000 Arrival T:172 Wait T:93 Teller:1
+1141 Jean     Picard   Amount:5454 Deposit, Balance:10908 Arrival T:174 Wait T:95 Teller:2
+1142 Bill     Preston  Amount:7777 Deposit, Balance:16665 Arrival T:175 Wait T:100 Teller:3
+1143 Throdore Logan    Amount:999 Deposit, Balance:10998 Arrival T:179 Wait T:101 Teller:2
+1144 Chris    Pike     Amount:1000 Withdraw, Balance:9000 Arrival T:187 Wait T:105 Teller:1
+Teller 1 deposits: 3 Withdraws: 4 Total transactions: 7
+Teller 2 deposits: 10 Withdraws: 6 Total transactions: 16
+Teller 3 deposits: 7 Withdraws: 5 Total transactions: 12
+Total Wait time: 105 Average transactions per teller: 11.6667
